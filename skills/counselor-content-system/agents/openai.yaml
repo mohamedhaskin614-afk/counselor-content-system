@@ -1,4 +1,4 @@
 interface:
-  display_name: "咨询师内容创作系统"
-  short_description: "帮咨询师做定位、找选题、多平台写作、改稿和服务表达"
-  default_prompt: "使用 $counselor-content-system。请判断我现在需要定位、找选题、写稿、改稿还是说清服务；信息够就直接做，信息不够一次只问一个问题。务必说人话，朋友圈默认写短。"
+  display_name: "咨询师内容创作系统｜IP 商业化"
+  short_description: "帮咨询师做个人IP、内容、服务表达和商业化行动"
+  default_prompt: "使用 $counselor-content-system。先判断我当前最影响结果的一处，直接做出一个可用的小结果，再给我一个今天能执行并获得真实反馈的下一步。务必说人话。"
