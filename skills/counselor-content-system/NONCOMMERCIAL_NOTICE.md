@@ -1,7 +1,7 @@
 # Noncommercial Use Notice
 
-This v1.3.0 private standalone build adapts anonymized methods from the user's private XS knowledge system and from dbskill, which is licensed under CC BY-NC 4.0. It does not include private source documents, client information, local paths, or ammo-library files.
+Counselor Content System v1.3.1 is a public-source, noncommercial distribution. It adapts anonymized methods from a private XS knowledge system and from dbskill, which is licensed under CC BY-NC 4.0. It contains no private source documents, client information, local paths, or ammo-library files.
 
-Use this build only for personal, educational, research, evaluation, or other noncommercial purposes. Do not sell, sublicense, commercially distribute, or include it in a paid product or service without separately confirming all required permissions.
+You may learn from, use, share, and adapt this version for noncommercial purposes with attribution, an indication of changes, and retention of the noncommercial restriction. Do not sell, sublicense, commercially distribute, or include it in a paid product or service without separately confirming all required permissions.
 
-The earlier v1.1.0 public build remains available for use under its original notices and does not contain the newly adapted dbskill/XS diagnostic material.
+“Public source” does not mean OSI-approved open source, because commercial use is restricted. Third-party components remain under their original licenses; see `THIRD_PARTY_NOTICES.md`.
