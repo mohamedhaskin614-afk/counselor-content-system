@@ -26,11 +26,11 @@ The MIT permission notice for these adapted portions follows:
 > OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 > SOFTWARE.
 
-## Public-Source Noncommercial v1.3.1 Adaptations
+## Public-Source Noncommercial v1.4.0 Adaptations
 
-- The v1.3.1 diagnostic, positioning, guided-discovery, plain-language and content-conversion workflows adapt anonymized patterns from a private XS knowledge system, operating handbook, published-content reviews and reusable internal notes. Source documents, client information, private case files, local paths and ammo-library files are not included. The skill bundles only generalized rules and synthetic or aggregate examples.
+- The v1.4.0 diagnostic, positioning, guided-discovery, plain-language, action-loop and content-conversion workflows adapt anonymized patterns from a private XS knowledge system, operating handbook, published-content reviews, the creator's business-consultation practice and reusable internal notes. Source documents, consultation transcripts, client information, private case files, local paths and ammo-library files are not included. The skill bundles only generalized rules and synthetic or aggregate examples.
 
-- [dbskill](https://github.com/dontbesilent2025/dbskill) is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). v1.3.1 adapts its problem-dissolution and interaction habits: accepting incomplete input, checking vague words and hidden assumptions, routing from current evidence, asking one decisive question at a time and moving immediately into the task. These adapted portions, and the combined public-source v1.3.1 build, are limited to noncommercial use. Attribution: dontbesilent / dbskill contributors.
+- [dbskill](https://github.com/dontbesilent2025/dbskill) is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). v1.4.0 adapts its problem-dissolution and interaction habits: accepting incomplete input, checking vague words and hidden assumptions, routing from current evidence, asking one decisive question at a time and moving immediately into the task. These adapted portions, and the combined public-source v1.4.0 build, are limited to noncommercial use. Attribution: dontbesilent / dbskill contributors.
 
 - [Cheat on Content / cheat-seed](https://github.com/XBuilderLAB/cheat-on-content) contributes the conversational habits of working one topic at a time, grounding ideas in a user's real experience, asking one question per turn and treating output as something to validate against real feedback. It is MIT licensed as noted above.
 
